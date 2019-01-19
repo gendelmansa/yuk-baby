@@ -6886,7 +6886,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "etaYwrLZQUS+b3UWTpCnUggd6SQ/ZIkZ5pHnoR7+dIWt/wp2Rv3CvMKOZISsrt7FYCHKwCxfcepuuyEWkQxADg==",
+      "sha512": "x188gIZXOwFXkPXyGavEcPGcR6RGvjFOES2QzskN4gERZjWPN34qhRsZVMC0CLJfQLGSButarcgWxPPM4vmg0w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
@@ -7071,7 +7071,7 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
@@ -9208,7 +9208,7 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "MNcaYxUJvUcoXOa+jgKl/GDw/Mh+wMrxDjW4dre7qrp35LUGTjUBNtZsNjxsWX592ocdyqt1X5hMJB+5OStoYw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shmoo\\.nuget\\packages\\": {},
+    "C:\\Users\\mitch\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shmoo\\source\\repos\\yuk\\yuk\\yuk.csproj",
+      "projectUniqueName": "D:\\GitHub\\yuk-baby\\yuk\\yuk.csproj",
       "projectName": "yuk",
-      "projectPath": "C:\\Users\\shmoo\\source\\repos\\yuk\\yuk\\yuk.csproj",
-      "packagesPath": "C:\\Users\\shmoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shmoo\\source\\repos\\yuk\\yuk\\obj\\",
+      "projectPath": "D:\\GitHub\\yuk-baby\\yuk\\yuk.csproj",
+      "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\yuk-baby\\yuk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\shmoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mitch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
