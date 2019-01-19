@@ -1,0 +1,14 @@
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.csprojAssemblyReference.cache
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.csproj.CoreCompileInputs.cache
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.RazorAssemblyInfo.cache
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.RazorAssemblyInfo.cs
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.AssemblyInfoInputs.cache
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.AssemblyInfo.cs
+C:\Users\shmoo\source\repos\yuk\yuk\bin\Debug\netcoreapp2.1\yuk.deps.json
+C:\Users\shmoo\source\repos\yuk\yuk\bin\Debug\netcoreapp2.1\yuk.runtimeconfig.json
+C:\Users\shmoo\source\repos\yuk\yuk\bin\Debug\netcoreapp2.1\yuk.runtimeconfig.dev.json
+C:\Users\shmoo\source\repos\yuk\yuk\bin\Debug\netcoreapp2.1\yuk.dll
+C:\Users\shmoo\source\repos\yuk\yuk\bin\Debug\netcoreapp2.1\yuk.pdb
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.RazorTargetAssemblyInfo.cache
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.dll
+C:\Users\shmoo\source\repos\yuk\yuk\obj\Debug\netcoreapp2.1\yuk.pdb
